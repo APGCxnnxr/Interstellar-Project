@@ -1,0 +1,19 @@
+:root {
+   /* Background Variables */
+   --background-color: #FF0000; /* Main Background Color */
+   --background-input: #FF0000; /* Input Field Background Color */
+   --background-column: #000000; /* Background for Apps Container */
+   --background-settings: #000000; /* Settings Card Background */
+   --background-buttons: #FF0000; /* Button Background Color */
+   --tab-active-background: #FF0000; /* Accent Color for Tabs */
+   --tab-inactive-background: ; /* Background Color for Tabs Not In Use */
+   --slider-active-background: #000000; /* Active Slider Background Color */
+   --slider-inactive-background: FF0000; /* Slider Background Color */
+   --nav-image: url("/./assets/media/favicon/main-inverted.png"); /* Nav Logo */
+   --save-button: #000000; /* Save Button, Normally Green */
+   /* Text Variables */
+   --text-primary: #000; /* Primary Text Color */
+   --text-dark: #aaa; /* Dark Text Color for Error Page, Scrollbar, and Particles */
+   --text-placeholder: #555; /* Placeholder Text Color */
+   /* Other Variables */
+}
