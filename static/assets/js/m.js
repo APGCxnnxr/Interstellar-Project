@@ -49,6 +49,7 @@ const themes = {
   catppuccinMacchiato: "/assets/css/themes/catppuccin/macchiato.css?v=00",
   catppuccinFrappe: "/assets/css/themes/catppuccin/frappe.css?v=00",
   catppuccinLatte: "/assets/css/themes/catppuccin/latte.css?v=00",
+  catppuccinLatte: "/assets/css/themes/catppuccin/SFMS.css?v=00",
   Inverted: "/assets/css/themes/colors/inverted.css?v=00",
   sky: "/assets/css/themes/colors/sky.css?v=00",
 };
